@@ -1,0 +1,4 @@
+/* Getting rid of default 8px margin */
+body {
+  margin: 0;
+}
